@@ -24,11 +24,11 @@
 
 | Проект | Описание |
 |--------|----------|
-| [deskmate-bot](https://github.com/bazhen82/deskmate-bot) | Мультимодальный Telegram-ассистент: RAG, Whisper, Vision |
-| [tasktreker-vk-n8n](https://github.com/bazhen82/tasktreker-vk-n8n) | VK task tracker на n8n + GigaChat + Kaiten |
-| [MarketVision](https://github.com/bazhen82/MarketVision) | AI-генератор карточек для Ozon/Wildberries |
-| [RivalScope](https://github.com/bazhen82/RivalScope) | AI-панель анализа конкурентов |
-| [neirobridge-site](https://github.com/bazhen82/neirobridge-site) | Портфолио-сайт на Next.js |
+| [deskmate-bot](https://github.com/NeiroBridge/deskmate-bot) | Мультимодальный Telegram-ассистент: RAG, Whisper, Vision |
+| [tasktreker-vk-n8n](https://github.com/NeiroBridge/tasktreker-vk-n8n) | VK task tracker на n8n + GigaChat + Kaiten |
+| [MarketVision](https://github.com/NeiroBridge/MarketVision) | AI-генератор карточек для Ozon/Wildberries |
+| [RivalScope](https://github.com/NeiroBridge/RivalScope) | AI-панель анализа конкурентов |
+| [neirobridge-site](https://github.com/NeiroBridge/neirobridge-site) | Портфолио-сайт на Next.js |
 
 ---
 
@@ -41,17 +41,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bazhen82&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeiroBridge&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bazhen82&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiroBridge&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bazhen82&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeiroBridge&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📬 Контакты
 
 - 🌐 Сайт: [neirobridge.ru](https://neirobridge.ru)
-- 💬 Telegram: `@neirobridge_ai`
+- 💬 Telegram: [@neirobridge_ai](https://t.me/neirobridge_ai)
+- 📢 Канал: [NeiroBridge Cases](https://t.me/neirobridge_cases)
 
-💡 *Открыт к проектам: AI-боты, RAG, n8n, автоматизация бизнеса*`
+💡 *Открыт к проектам: AI-боты, RAG, n8n, автоматизация бизнеса*
